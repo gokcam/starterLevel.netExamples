@@ -1,0 +1,15 @@
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\obj\Debug\net6.0\ode2_soru1.csproj.AssemblyReference.cache
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\obj\Debug\net6.0\ode2_soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\obj\Debug\net6.0\ode2_soru1.AssemblyInfoInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\obj\Debug\net6.0\ode2_soru1.AssemblyInfo.cs
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\obj\Debug\net6.0\ode2_soru1.csproj.CoreCompileInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\bin\Debug\net6.0\ode2_soru1.exe
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\bin\Debug\net6.0\ode2_soru1.deps.json
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\bin\Debug\net6.0\ode2_soru1.runtimeconfig.json
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\bin\Debug\net6.0\ode2_soru1.dll
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\bin\Debug\net6.0\ref\ode2_soru1.dll
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\bin\Debug\net6.0\ode2_soru1.pdb
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\obj\Debug\net6.0\ode2_soru1.dll
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\obj\Debug\net6.0\ref\ode2_soru1.dll
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\obj\Debug\net6.0\ode2_soru1.pdb
+C:\Users\90542\Desktop\Pratikler Devam\ode2_soru1\obj\Debug\net6.0\ode2_soru1.genruntimeconfig.cache
