@@ -1,0 +1,15 @@
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\bin\Debug\net6.0\arrayMethod.exe
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\bin\Debug\net6.0\arrayMethod.deps.json
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\bin\Debug\net6.0\arrayMethod.runtimeconfig.json
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\bin\Debug\net6.0\arrayMethod.dll
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\bin\Debug\net6.0\ref\arrayMethod.dll
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\bin\Debug\net6.0\arrayMethod.pdb
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\obj\Debug\net6.0\arrayMethod.csproj.AssemblyReference.cache
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\obj\Debug\net6.0\arrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\obj\Debug\net6.0\arrayMethod.AssemblyInfoInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\obj\Debug\net6.0\arrayMethod.AssemblyInfo.cs
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\obj\Debug\net6.0\arrayMethod.csproj.CoreCompileInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\obj\Debug\net6.0\arrayMethod.dll
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\obj\Debug\net6.0\ref\arrayMethod.dll
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\obj\Debug\net6.0\arrayMethod.pdb
+C:\Users\90542\Desktop\Pratikler Devam\arrayMethod\obj\Debug\net6.0\arrayMethod.genruntimeconfig.cache
